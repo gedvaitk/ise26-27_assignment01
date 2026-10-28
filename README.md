@@ -109,3 +109,5 @@ On Windows with WSL, install IntelliJ on Windows and open the clone through its 
 ## Acknowledgment
 
 This README was drafted with the help of [Claude Code](https://claude.com/product/claude-code) (Opus 5.5).
+
+*Außer dieser Abschnitt, der von Gediminas und Christian hinzugefügt ist!*
